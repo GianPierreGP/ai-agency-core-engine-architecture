@@ -6,14 +6,13 @@ Multi-vertical AI-driven orchestration engine designed to automate enterprise sa
 ## System Architecture
 
 ### Verticals 1–3: Core Ingestion & Agent Workflows
-![Verticals 1 to 3](./docs/images/V123.jpg)
+![Verticals 1 to 3](./docs/images/V123.png)
 
 ### Verticals 4–5: Analytics & CRM Synchronization
-![Verticals 4 to 5](./docs/images/V345.jpg)
+![Verticals 4 to 5](./docs/images/V345.png)
 
 ### Vertical 6: Massive AI Processing & Schema Initialization
-![Verticals 5 and 6](./docs/images/V56.jpg)
-
+![Verticals 5 and 6](./docs/images/V56.png)
 ---
 
 ## Technical Stack & Infrastructure
